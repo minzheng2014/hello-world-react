@@ -19,5 +19,4 @@ export default class App extends Component {
   }
 }
 
-// skip this line if using Create React Native App
 AppRegistry.registerComponent('ReactNativeProject', () => App);
